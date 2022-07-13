@@ -112,7 +112,7 @@ const filter = {
         '$gt': 70
       }
     }, {
-      'address.coord.0': {
+      'address.coord.1': {
         '$lt': -65.754168
       }
     }
